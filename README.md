@@ -1,34 +1,32 @@
-# Distance Calculator
+# Finding the hypotenuse of a right triangle
 
 ## Description
-This distance calculator calculates the distance between two coordinate points.
+
+This Python program calculates the hypotenuse of a right triangle using functions
+from the math library.
 
 ## How to Run
 - Download the file and open it in PyCharm
 - Run the python file
-- Enter the required coordinates
-- Wait for the calculated distance to be displayed
+- Enter the required lengths
+- Wait for the calculated hypotenuse to be displayed
 
 ## Input Needed
 
 Enter the following numbers:
 
-- x1
-- x2
-- y1
-- y2
+- Length of side A
+- Length of side B
 
 ## Sample Output
 **Input**
 
-- Enter the number for x1: 3
-- Enter the number for y1: 4
-- Enter the number for x2: -1
-- Enter the number for y2: -12
+- Enter the length of side A: 8
+- Enter the length of side B: 10
 
 **Output**
 
-- The distance between the two points is: 16.49
+- The hypotenuse of the right triangle is 12.81
 
 ## Author
 Name: Lacbongan, Julie Hannah Maye L.
